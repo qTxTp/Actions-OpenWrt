@@ -19,4 +19,4 @@ sed -i '9c PKG_HASH:=37d49b70ba5319c3dc208f22a503671e21b1212b8099b8bfff1ca570fed
 
 # Upgrade rblibtorrent to the latest available version
 sed -i '4c PKG_VERSION:=1.2.12' package/lean/rblibtorrent/Makefile
-sed -i '10c PKG_SOURCE_VERSION:=77cdef11e4ad5f2ae888ba358320cca079cad888' package/lean/rblibtorrent/Makefile
+sed -i '10c PKG_SOURCE_VERSION:=3efdb8a94197a7229a62fc44a43501f280b49bf1' package/lean/rblibtorrent/Makefile
